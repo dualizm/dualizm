@@ -1,4 +1,4 @@
-### C is Shit
+### You will suffer for a long time - something will work out.
 
 <!--
 **notidman/notidman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
