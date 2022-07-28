@@ -1,4 +1,6 @@
-### You will suffer for a long time - something will work out.
+# “Time flies when you’re having fun”
+
+# Yeah, it really does.
 
 <!--
 **notidman/notidman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
