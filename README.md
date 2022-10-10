@@ -1,4 +1,4 @@
-# Hi!
+# Yo!
 
 My name is Egor
 
