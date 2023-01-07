@@ -1,7 +1,8 @@
-# Yo!
+# It's better to use what's comfortable
 
-```c
-code(); coffee(); repeat();
+```lisp
+(-> me
+  (code)
+  (coffe-or-tea)
+  (repeat))
 ```
-
-I'm from Russia and I love programming. Mostly I program in C, C++, Lisp (or whatever). At present I'm studying computer networks and servers. I like reading books on computer science, languages.
