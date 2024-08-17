@@ -2,10 +2,9 @@
 
 ## My stack:
 
-* Target = Javascript/Typescript (React)
-* Love = Elixir (Phoenix)
+* Target = Javascript/Typescript (React) && Golang
 * Know = C11, Bash
-* Basic Level = C++17, Haskell, Lua, Ocaml, Erlang, CommonLisp
+* Basic Level = C++17, Lua, Ocaml, Erlang
 
 ## Favorite books
 
