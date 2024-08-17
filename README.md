@@ -3,7 +3,7 @@
 ## My stack:
 
 * Target = Javascript/Typescript (React) && Golang
-* Know = C11, Bash
+* Know = Golang, Javascript, C11, Lua, Bash
 * Basic Level = C++17, Lua, Ocaml, Erlang
 
 ## Favorite books
