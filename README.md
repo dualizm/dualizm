@@ -2,9 +2,9 @@
 
 ## My stack:
 
-* Target = Javascript/Typescript (React) && Golang
-* Know = Golang, Javascript, C11, Lua, Bash
-* Basic Level = C++17, Lua, Ocaml, Erlang
+* Target = Javascript/Typescript (React) && Elixir (Erlang)
+* Know = Erlang, Javascript, C11, Lua, Bash
+* Basic Level = C++17, Lua, Ocaml
 
 ## Favorite books
 
