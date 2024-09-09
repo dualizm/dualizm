@@ -5,7 +5,7 @@ I'm a web application developer
 
 * Target = Javascript/Typescript (React) && Golang
 * Know = Javascript, Typescript, C11, Lua, Go, Bash
-* Basic Level = C++11, Erlang
+* Basic Level = Erlang, Common lisp
 
 ## Favorite books
 
