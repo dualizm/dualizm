@@ -3,9 +3,9 @@ I'm a web application developer
 
 ## My stack
 
-* Target = Javascript/Typescript (React) && Golang
-* Know = Javascript, Typescript, C11, Lua, Go, Bash
-* Basic Level = Erlang, Common lisp
+* Target = Javascript/Typescript (React)
+* Know = Javascript, Typescript, C11, Lua, Bash
+* Basic Level = Golang, Erlang, Common lisp
 
 ## Favorite books
 
