@@ -4,7 +4,6 @@ I'm a web application developer
 ## My stack
 
 * Target = Javascript/Typescript (React)
-* Know = Javascript, C11
 
 ## Favorite books
 
