@@ -23,6 +23,6 @@ I'm a web application developer
 
 * OS: gentoo, debian
 * Terminal: alacritty
-* Wm: awesome
-* Editor: nvim, codium
+* Wm: dwm+dwmblocks
+* Editor: emacs, codium
 * Shell: bash
