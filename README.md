@@ -4,7 +4,7 @@ I'm a web application developer
 ## My stack
 
 * Frontend: Javascript (React) (typescript must die)
-* Backend: Golang
+* Backend: ?
 * Scripts: Scheme (guile)
 * Embedding: C, Zig
 
