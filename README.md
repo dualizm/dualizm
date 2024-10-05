@@ -3,7 +3,10 @@ I'm a web application developer
 
 ## My stack
 
-* Target = Javascript/Typescript (React)
+* Frontend: Javascript (React) (typescript must die)
+* Backend: Golang
+* Scripts: Scheme (guile)
+* Embedding: C, Zig
 
 ## Favorite books
 
@@ -20,8 +23,15 @@ I'm a web application developer
 
 ## Setup
 
-* OS: gentoo, debian
-* Terminal: alacritty
-* Wm: dwm+dwmblocks
-* Editor: emacs, codium
+* OS: gentoo
+
+* X system:
+  * Terminal: alacritty
+  * Wm: dwm+dwmblocks
+
+* Wayland:
+  * Terminal: foot
+  * Wm: Sway
+
+* Editor: vim, emacs, codium
 * Shell: bash
