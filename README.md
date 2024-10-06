@@ -25,7 +25,7 @@ I'm a web application developer
 
 * OS: gentoo
 
-* X system:
+* X11:
   * Terminal: alacritty
   * Wm: dwm+dwmblocks
 
