@@ -5,7 +5,7 @@ I'm a web application developer
 
 * Frontend: Javascript (React) (typescript must die)
 * Backend: ?
-* Scripts: Scheme (guile)
+* Scripts: Lua, bash
 * Embedding: C, Zig
 
 ## Favorite books
