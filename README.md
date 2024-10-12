@@ -6,7 +6,7 @@ I'm a web application developer
 * Frontend: Javascript (React) (typescript must die)
 * Backend: ?
 * Scripts: Lua, bash
-* Embedding: C, Zig
+* Embedding: C
 
 ## Favorite books
 
