@@ -4,7 +4,7 @@ I'm a web application developer
 ## My stack
 
 * Frontend: Javascript (React) (typescript must die)
-* Backend: ?
+* Backend: Elixir (Phoenix)
 * Scripts: Lua, bash
 * Embedding: C
 
@@ -15,16 +15,13 @@ I'm a web application developer
 * Clean Architecture (Robert C. Martin)
 * Introduction to Algorithms, Third Edition
 * How to program in C (Datel Harvey, Datel Paul)
-* Learning Go: An Idiomatic Approach to Real-World Go Programming (Jon Bodner) 
 * CSS in Depth (Grant, Keith J.)
 * JavaScript from Beginner to Professional
+* Elixir in Action (Saša Juric)
 * Learn You Some Erlang for Great Good! (Fred Hebert)
 * Land of Lisp (Conrad Barski)
 
 ## Setup
-
-* OS: gentoo
-
 * X11:
   * Terminal: alacritty
   * Wm: dwm+dwmblocks
@@ -33,5 +30,6 @@ I'm a web application developer
   * Terminal: foot
   * Wm: Sway
 
-* Editor: vim, emacs, codium
+* Editor: neovim, codium
 * Shell: bash
+* OS: gentoo
