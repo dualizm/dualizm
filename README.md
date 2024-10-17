@@ -4,7 +4,7 @@ I'm a web application developer
 ## My stack
 
 * Frontend: Javascript (React) (typescript must die)
-* Backend: Elixir (Phoenix)
+* Backend: Golang
 * Scripts: Lua, bash
 * Embedding: C
 
