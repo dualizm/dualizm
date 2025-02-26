@@ -4,8 +4,8 @@ I'm a web application developer
 ## My stack
 
 * Frontend: Javascript (React) (typescript must die)
-* Backend: Golang
-* Scripts: Lua, bash
+* Backend: Erlang/Elixir
+* Scripts: Lua, Bash
 * Embedding: C
 
 ## Favorite books
@@ -22,13 +22,8 @@ I'm a web application developer
 * Land of Lisp (Conrad Barski)
 
 ## Setup
-* X11:
-  * Terminal: alacritty
-  * Wm: dwm+dwmblocks
-
-* Wayland:
-  * Terminal: foot
-  * Wm: Sway
+* Terminal: foot
+* Wm: Sway
 
 * Editor: neovim, codium
 * Shell: bash
