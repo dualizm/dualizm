@@ -1,30 +1,30 @@
-# Hi ❤
-I'm a web application developer
+<div align="center" id="toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>:-)</h1>
+    </summary>
+  </ul>
+</div>
 
-## My stack
+## What i use/like
 
-* Frontend: Javascript (React) (typescript must die)
-* Backend: Erlang/Elixir
-* Scripts: Lua, Bash
-* Embedding: C
+- Javascript (React)
+- C
+- Erlang
+- Lua
+- Common Lisp
+
+## Where am I
+
+<b>sway</b>, <b>foot</b>, <b>bash</b>, <b>neovim</b>, <b>gentoo</b>
 
 ## Favorite books
 
-* Computer networks (Tanenbaum, Andrew S.)
+* Computer Networks: Principles, Technologies and Protocols (Natalia Olifer, Victor Olifer)
 * Structured Computer Organization (Andrew Tanenbaum, Todd Austin)
-* Clean Architecture (Robert C. Martin)
-* Introduction to Algorithms, Third Edition
+* Introduction to Database Systems (C. J. Date)
+* Introduction to Algorithms (Thomas H Cormen)
 * How to program in C (Datel Harvey, Datel Paul)
 * CSS in Depth (Grant, Keith J.)
-* JavaScript from Beginner to Professional
-* Elixir in Action (Saša Juric)
 * Learn You Some Erlang for Great Good! (Fred Hebert)
 * Land of Lisp (Conrad Barski)
-
-## Setup
-* Terminal: foot
-* Wm: Sway
-
-* Editor: neovim, codium
-* Shell: bash
-* OS: gentoo
