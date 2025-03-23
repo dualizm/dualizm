@@ -8,9 +8,10 @@
 
 ## What i use/like
   - Javascript (React)
+  - Go
+  - Lua
   - C
   - Erlang
-  - Lua
   - Common Lisp
 
 ## About
