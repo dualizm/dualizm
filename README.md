@@ -8,11 +8,9 @@
 
 ## What i use/like
   - Javascript (React)
-  - Go
+  - Elixir
   - Lua
   - C
-  - Erlang
-  - Common Lisp
 
 ## About
   Web developer
@@ -27,5 +25,6 @@
 - Introduction to Algorithms (Thomas H Cormen)
 - How to program in C (Datel Harvey, Datel Paul)
 - CSS in Depth (Grant, Keith J.)
+- Elixir in Action (Saša Juric)
 - Learn You Some Erlang for Great Good! (Fred Hebert)
 - Land of Lisp (Conrad Barski)
