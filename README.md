@@ -7,10 +7,11 @@
 </div>
 
 ## What i use/like
-  - Javascript (React)
+  - Javascript / Typescript (React)
+  - Rust
   - Elixir
-  - Lua
   - C
+  - Common lisp
 
 ## About
   Web developer
