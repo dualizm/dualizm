@@ -6,18 +6,18 @@
   </ul>
 </div>
 
-## What i use/like
+## What i use, like
   - Javascript / Typescript (React)
-  - Rust
-  - Elixir
-  - C
   - Common lisp
+  - Elixir
+  - C / Rust
+
 
 ## About
   Web developer
   - Ru - native
   - En - B2
-  - .files - sway foot bash tmux vscode neovim gentoo debian
+  - .files - sway emacs gentoo
 
 ## Favorite books
 - Computer Networks: Principles, Technologies and Protocols (Natalia Olifer, Victor Olifer)
