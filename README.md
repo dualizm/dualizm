@@ -17,7 +17,7 @@
   UI developer
   - Ru - native
   - En - B2
-  - .files - sway foot neovim debian
+  - .files - sway foot emacs debian
 
 ## Favorite books
 - Computer Networks: Principles, Technologies and Protocols (Natalia Olifer, Victor Olifer)
