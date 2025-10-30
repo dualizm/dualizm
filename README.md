@@ -8,16 +8,16 @@
 
 ## What i use, like
   - Javascript / Typescript (React)
-  - Common lisp
-  - Elixir
-  - C / Rust
-
+  - C / Cpp (Qt)
+  - Erlang / Elixir (Phoenix Framework)
+  - Lua
+  - Common lisp 
 
 ## About
-  Web developer
+  UI developer
   - Ru - native
   - En - B2
-  - .files - sway emacs gentoo
+  - .files - sway foot neovim debian
 
 ## Favorite books
 - Computer Networks: Principles, Technologies and Protocols (Natalia Olifer, Victor Olifer)
