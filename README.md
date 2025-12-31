@@ -1,29 +1,20 @@
-<div align="center" id="toc">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h1>:-)</h1>
-    </summary>
-  </ul>
-</div>
-
-## What i use, like
-  - Javascript / Typescript (React)
-  - C / Cpp (Qt)
-  - Erlang / Elixir (Phoenix Framework)
-  - Lua
-  - Common lisp 
-
-## About
+## :: LOG1 - ABOUT ::
   UI developer
-  - Ru - native
-  - En - B2
-  - .files - sway foot emacs debian
+  - Lang: Ru - native; En - B2
+  - Edit: Emacs
+  - OS: Debian
 
-## Favorite books
+## :: LOG2 - LANGS ::
+  - C / Cpp (Qt)
+  - Javascript / Typescript (React)
+  - Common lisp
+
+## :: LOG3 - BOOKS ::
 - Computer Networks: Principles, Technologies and Protocols (Natalia Olifer, Victor Olifer)
 - Structured Computer Organization (Andrew Tanenbaum, Todd Austin)
 - Introduction to Database Systems (C. J. Date)
 - Introduction to Algorithms (Thomas H Cormen)
+- Effective C (Robert C. Seacord)
 - How to program in C (Datel Harvey, Datel Paul)
 - CSS in Depth (Grant, Keith J.)
 - Elixir in Action (Saša Juric)
